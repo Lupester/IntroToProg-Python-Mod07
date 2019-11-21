@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Intro to Programming (Python) Module 7
 
-You can use the [editor on GitHub](https://github.com/Lupester/IntroToProg-Python-Mod07/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Guadalupe Flores
+November 20, 2019
+IT FDN 100 A
+Assignment 07
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In the seventh segment of our class, we covered Python pickling and exception handling.  The lesson also includes the benefits of using structured error, and the differences between text and binary files.  The assignment notes also included a section of debugging and understanding the distinction between local variables vs. global variables. The latter being variables declared in a “body of a script and may be used any place in the scripts.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# TESTING
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
+### Webpages
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lupester/IntroToProg-Python-Mod07/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Applying our Knowledge
+After reviewing the required reading, lecture notes, videos, and web pages, we then were required to complete an assignment. By modifying my previous “HomeInventory.txt” and changing the file to “Toolbox.dat.” The final step was of the assignment was to upload our documents onto the GitHub website and create a weblink. See Figure 1
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
