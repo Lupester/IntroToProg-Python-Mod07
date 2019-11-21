@@ -15,7 +15,7 @@ Exception Handling in Python
 -Python | Set 5 (Exception Handling): https://www.geeksforgeeks.org/python-set-5-exception-handling/
 -Python Exception Handling - Try, Except and Finally: https://www.programiz.com/python-programming/exception-handling
 -Python - Exceptions Handling: https://www.tutorialspoint.com/python/python_exceptions.htm
-Pickling
+ Pickling
 -Python pickle.PicklingError() Examples: https://www.programcreek.com/python/example/2422/pickle.PicklingError
 -Pickle in Python: Object Serialization: https://www.datacamp.com/community/tutorials/pickle-python-tutorial
 -Understanding Python Pickling with example: https://www.geeksforgeeks.org/understanding-python-pickling-example/
@@ -28,3 +28,7 @@ The objective of the assignment was to import pickle and insert an error handlin
 
 ### Running the Script
 To test out your script in PyCharm select Run from the task menu. A lower console should open, with a Menu of  Options.  The user has three options. If the user selects “1) Add and Save Data to file.”   The program will request the user enter information. If the user enters a character other, then a numeric, an error message will appear.  See Figure 5 and 6.  The  “Toolbox.dat” file is saved to Windows C: Drive. See figure 7. 
+
+### Summary
+In reading  Chapter 7, and reviewing the lecture notes, webpages, practices running the lab assignment and reviewing the tutorials. Replicating the steps from assignment 4, I was able to create a subfolder, and a PyCharm file, and essentially adding an error handaling and import, load and dump the pickle.
+
