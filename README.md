@@ -13,11 +13,15 @@ In addition to reading the chapter, we were assigned to research Pickling from t
 Exception Handling in Python
 
  Python | Set 5 (Exception Handling): https://www.geeksforgeeks.org/python-set-5-exception-handling/
+ 
  Python Exception Handling - Try, Except and Finally: https://www.programiz.com/python-programming/exception-handling
+ 
  Python - Exceptions Handling: https://www.tutorialspoint.com/python/python_exceptions.htm
  
  Python pickle.PicklingError() Examples: https://www.programcreek.com/python/example/2422/pickle.PicklingError
+ 
  Pickle in Python: Object Serialization: https://www.datacamp.com/community/tutorials/pickle-python-tutorial
+ 
  Understanding Python Pickling with example: https://www.geeksforgeeks.org/understanding-python-pickling-example/
 
 ### Applying our Knowledge
