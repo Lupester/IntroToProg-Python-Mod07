@@ -12,13 +12,14 @@ In the seventh segment of our class, we covered Python pickling and exception ha
 In addition to reading the chapter, we were assigned to research Pickling from the website as well as error handling, with the addition of creating a repository in GitHub and adding a GitHub webpage. The selection of links are as followed:
 Exception Handling in Python
 
--Python | Set 5 (Exception Handling): https://www.geeksforgeeks.org/python-set-5-exception-handling/
--Python Exception Handling - Try, Except and Finally: https://www.programiz.com/python-programming/exception-handling
--Python - Exceptions Handling: https://www.tutorialspoint.com/python/python_exceptions.htm
+#Python | Set 5 (Exception Handling): https://www.geeksforgeeks.org/python-set-5-exception-handling/
+#Python Exception Handling - Try, Except and Finally: https://www.programiz.com/python-programming/exception-handling
+#Python - Exceptions Handling: https://www.tutorialspoint.com/python/python_exceptions.htm
  Pickling
--Python pickle.PicklingError() Examples: https://www.programcreek.com/python/example/2422/pickle.PicklingError
--Pickle in Python: Object Serialization: https://www.datacamp.com/community/tutorials/pickle-python-tutorial
--Understanding Python Pickling with example: https://www.geeksforgeeks.org/understanding-python-pickling-example/
+ 
+#Python pickle.PicklingError() Examples: https://www.programcreek.com/python/example/2422/pickle.PicklingError
+#Pickle in Python: Object Serialization: https://www.datacamp.com/community/tutorials/pickle-python-tutorial
+#Understanding Python Pickling with example: https://www.geeksforgeeks.org/understanding-python-pickling-example/
 
 ### Applying our Knowledge
 After reviewing the required reading, lecture notes, videos, and web pages, we then were required to complete an assignment. By modifying my previous “HomeInventory.txt” and changing the file to “Toolbox.dat.” The final step was of the assignment was to upload our documents onto the GitHub website and create a weblink. See Figure 1
