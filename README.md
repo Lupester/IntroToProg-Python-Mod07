@@ -29,7 +29,6 @@ After reviewing the required reading, lecture notes, videos, and web pages, we t
 
 ### Creating the Program Script
 The objective of the assignment was to import pickle and insert an error handling script. See figure 2 in Assignment07 word document.
-The  functions that I created are as followed:
 
 ### Running the Script
 To test out your script in PyCharm select Run from the task menu. A lower console should open, with a Menu of  Options.  The user has three options. If the user selects “1) Add and Save Data to file.”   The program will request the user enter information. If the user enters a character other, then a numeric, an error message will appear.  See Figure 5 and 6 in Assignment07 word document. The  “Toolbox.dat” file is saved to Windows C: Drive. See figure 7 in Assignment07 word document. 
