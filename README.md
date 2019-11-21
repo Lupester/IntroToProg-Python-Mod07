@@ -21,13 +21,14 @@ Exception Handling in Python
  Understanding Python Pickling with example: https://www.geeksforgeeks.org/understanding-python-pickling-example/
 
 ### Applying our Knowledge
-After reviewing the required reading, lecture notes, videos, and web pages, we then were required to complete an assignment. By modifying my previous “HomeInventory.txt” and changing the file to “Toolbox.dat.” The final step was of the assignment was to upload our documents onto the GitHub website and create a weblink. See Figure 1
+After reviewing the required reading, lecture notes, videos, and web pages, we then were required to complete an assignment. By modifying my previous “HomeInventory.txt” and changing the file to “Toolbox.dat.” The final step was of the assignment was to upload our documents onto the GitHub website and create a weblink. See Figure 1 in Assignment07 wordocument.
 
 ### Creating the Program Script
-The objective of the assignment was to import pickle and insert an error handling script. See figure 2. The  functions that I created are as followed:
+The objective of the assignment was to import pickle and insert an error handling script. See figure 2 in Assignment07 word document.
+The  functions that I created are as followed:
 
 ### Running the Script
-To test out your script in PyCharm select Run from the task menu. A lower console should open, with a Menu of  Options.  The user has three options. If the user selects “1) Add and Save Data to file.”   The program will request the user enter information. If the user enters a character other, then a numeric, an error message will appear.  See Figure 5 and 6.  The  “Toolbox.dat” file is saved to Windows C: Drive. See figure 7. 
+To test out your script in PyCharm select Run from the task menu. A lower console should open, with a Menu of  Options.  The user has three options. If the user selects “1) Add and Save Data to file.”   The program will request the user enter information. If the user enters a character other, then a numeric, an error message will appear.  See Figure 5 and 6 in Assignment07 word document. The  “Toolbox.dat” file is saved to Windows C: Drive. See figure 7 in Assignment07 word document.. 
 
 ### Summary
 In reading  Chapter 7, and reviewing the lecture notes, webpages, practices running the lab assignment and reviewing the tutorials. Replicating the steps from assignment 4, I was able to create a subfolder, and a PyCharm file, and essentially adding an error handaling and import, load and dump the pickle.
